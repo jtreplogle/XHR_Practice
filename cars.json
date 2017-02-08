@@ -1,0 +1,39 @@
+{
+  "cars": [
+  {
+    "make" : "Chevy",
+    "model" : "Camero",
+    "trim" : "SS"
+  }, 
+  {
+    "make" : "Ford",
+    "model" : "Mustang",
+    "trim" : "500 GTR"
+  },
+  {
+    "make": "Ferrari",
+    "model": "488",
+    "trim": "GTB"
+  },
+    {
+    "make": "Nissan",
+    "model": "Maxima",
+    "trim": "SR"
+  },
+    {
+    "make": "Nissan",
+    "model": "GTR",
+    "trim": "S16"
+  },
+    {
+    "make": "Dodge",
+    "model": "Challenger",
+    "trim": "Hellcat"
+  },
+    {
+    "make": "Auid",
+    "model": "7",
+    "trim": "RS7"
+  }
+  ]
+}

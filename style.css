@@ -1,0 +1,14 @@
+.car-block {
+  text-align: center;
+  background-color: lightblue;
+  width: 40%;
+  border: 2px dotted black;
+}
+
+.model {
+  background-color: lightgrey;
+}
+
+.trim {
+  background-color: lightyellow;
+}
